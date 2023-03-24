@@ -30,6 +30,30 @@
       "package": 230
     },
     {
+      "id": 2,
+      "firstName": "Burns",
+      "lastName": "Crosby",
+      "email": "blanchardcherry@silodyne.com",
+      "dob": "1988-11-26T03:57:01Z",
+      "gender": "Male",
+      "education": "Diploma",
+      "company": "Miraclis",
+      "experience": 3,
+      "package": 129
+    },
+    {
+      "id": 3,
+      "firstName": "Burks",
+      "lastName": "Velez",
+      "email": "shannonhughes@metroz.com",
+      "dob": "1980-01-28T16:28:24Z",
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Gynk",
+      "experience": 3,
+      "package": 109
+    },
+    {
       "id": 4,
       "firstName": "Roberta",
       "lastName": "Stevenson",
@@ -40,6 +64,18 @@
       "company": "Zounds",
       "experience": 14,
       "package": 190
+    },
+    {
+      "id": 5,
+      "firstName": "Lopez",
+      "lastName": "Vance",
+      "email": "gingerconner@exoblue.com",
+      "dob": "1992-05-17T19:33:01Z",
+      "gender": "Female",
+      "education": "Matric",
+      "company": "Aquasure",
+      "experience": 5,
+      "package": 69
     },
     {
       "id": 6,
